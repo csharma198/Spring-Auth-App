@@ -13,7 +13,7 @@ A simple and secure Spring Boot application for user authentication and authoriz
 
 ## 🚀 Tech Stack
 
-- Java 17+
+- Java 22
 - Spring Boot
 - Spring Security
 - Spring Data JPA
